@@ -142,3 +142,10 @@ E ainda ficamos com 2 aulas para ajustes no plano.
    - qualidade do design/arquitetura
    - qualidade dos testes automáticos
    - trabalho em equipe
+
+---
+# Comunicação
+
+Registre-se no [slack](http://projsw-ufcg.slack.com) da
+disciplina. Usaremos somente o slack para comunicações oficiais
+da disciplina.
