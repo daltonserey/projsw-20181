@@ -2,7 +2,7 @@
 ---
 # Projeto de Software / Computação / UFCG, 2018.1
 
-> [Dalton Serey](http://daltonserey..github.io)<br>
+> [Dalton Serey](http://daltonserey.github.io)<br>
 > [Melina Mongiovi](http://www.dsc.ufcg.edu.br/~spg/Mongiovi/Home.html)<br>
 > 
 > Salas: ? e LCC3<br>
