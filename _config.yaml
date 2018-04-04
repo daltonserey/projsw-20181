@@ -1,0 +1,9 @@
+markdown: kramdown
+theme: jekyll-theme-midnight
+title: Projeto de Software, 2018.1
+description: |
+    Site da disciplina de Projeto de Software do Curso
+    de Ciência da Computação da UFCG, período 2018.1
+
+plugins:
+  - jemoji
