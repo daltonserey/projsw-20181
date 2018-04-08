@@ -33,7 +33,7 @@ count: false
 grande porte.
 
 ---
-# Tema central do curso: Aplicações Web
+# Tema do curso: Aplicações Web
 
 --
 count: false
