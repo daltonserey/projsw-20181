@@ -32,6 +32,19 @@ count: false
 1. participar efetivamente em equipes de projetos de sistemas de
 grande porte.
 
+---
+# Temas central do curso: Aplicações Web
+
+- conceitos de _design_ (projeto) e arquitetura de software
+
+- arquitetura de sistemas web modernos
+  - protocolo http
+  - modelo arquitetural REST
+
+- tecnologias web modernas
+  - tecnologias web para frontend
+  - tecnologias web para backend
+
 
 
 ---
@@ -65,19 +78,6 @@ count: false
 5. escrever especificações, documentação e testes automáticos
 para os vários componentes envolvidos.
 
-
----
-# Temas centrais do curso
-
-- conceitos de _design_ (projeto) e arquitetura de software
-
-- arquitetura de sistemas web modernos
-  - protocolo http
-  - modelo arquitetural REST
-
-- tecnologias web modernas
-  - tecnologias web para frontend
-  - tecnologias web para backend
 
 ---
 # Conceitos e tecnologias abordadas
