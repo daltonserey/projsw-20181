@@ -1,39 +1,83 @@
 class: center, middle
 # Projeto de Software
-## Apresentação do Curso
+## Apresentação da Disciplina
 ### ©2018 Dalton Serey & Melina Mongiovi, UFCG
 <!-- .center[![Right-aligned image](https://i.stack.imgur.com/Mmww2.png)] -->
 
 ---
-# Objetivo central de aprendizagem
+# Objetivos centrais de aprendizagem
 
->> Desenvolver conhecimento e competências do que se
-chama “_programação maior_”.ref[✱], ou de desenvolvimento de
-sistemas de software, como complemento aos conhecimentos e
-competências de escrita de pequenos programas adquiridas nas
-disciplinas de programação.
-
-.footnote[.red[<sup>✱</sup>] Tradução livre
-para o que se costuma chamar, em inglês, de
-_programming in the large_<br>em oposição a _programming in the
-small_.]
-
+Ao final do curso, **você deve ser capaz de**...
 --
 count: false
 
-<br>
-A questão é: como podemos concretizar isso melhor?
+1. compreender, reconhecer e explicar as diferenças fundamentais
+entre programas e sistemas;
+--
+count: false
+
+1. compreender os principais conceitos
+necessários para “_projetar e desenvolver sistemas_” em comparação aos
+necessários para “_escrever programas_”.ref[✱];
+.footnote[.red[<sup>✱</sup>] Se houvesse tradução apropriada,
+poderíamos ter usado as as expressões<br>_programming in the small_
+vs _programming in the large_.]
+--
+count: false
+
+1. projetar e implementar sistemas completos de pequeno porte;
+--
+count: false
+
+1. participar efetivamente em equipes de projetos de sistemas de
+grande porte.
+
+
+
+---
+# Objetivos concretos de aprendizagem
+
+Ao final do curso, **você deve ser capaz de**...
+
+--
+count: false
+1. entender a arquitetura da _world wide web_ e como funcionam,
+sobre ela, as aplicações web modernas;
+
+--
+count: false
+2. projetar aplicações _web_ modernas estruturadas na forma de:
+_i_) uma API REST; _ii_) um _frontend_; _iii_) um _backend_;
+
+--
+count: false
+3. construir e evoluir _frontends_ baseados em tecnologias
+modernas para _browsers_, centradas em html, css e _frameworks_
+JavaScript;
+
+--
+count: false
+4. construir e evoluir _backends_ baseados em tecnologias
+modernas para servidores Java;
+
+--
+count: false
+5. escrever especificações, documentação e testes automáticos
+para os vários componentes envolvidos.
+
 
 ---
 # Temas centrais do curso
 
-- _design_ e arquitetura de software
+- conceitos de _design_ (projeto) e arquitetura de software
 
 - arquitetura de sistemas web modernos
+  - protocolo http
+  - modelo arquitetural REST
 
-  - arquitetura rest
-  - tecnologias web frontend
-  - tecnologias web backend
+- tecnologias web modernas
+  - tecnologias web para frontend
+  - tecnologias web para backend
 
 ---
 # Conceitos e tecnologias abordadas
@@ -41,7 +85,8 @@ A questão é: como podemos concretizar isso melhor?
 - **conceitos**: _design_, arquitetura, decisões de projeto,
   decomposição em parte e todo, componentes, sites, processos,
   coesão, acoplamento, _design by contract_, _test driven
-  development_, _refactoring_, etc;
+  development_, _refactoring_, modelo arquitetural REST,
+  protocolo http;
 
 --
 count: false
@@ -73,6 +118,7 @@ count: false
 
 e organizaremos as aulas em ciclos:
   - em cada ciclo, alternaremos o foco em _frontend_ e _backend_
+  - em todas as aulas, discutiremos ou rediscutiremos os _conceitos_
   - cada ciclo terá 8 aulas
   - após cada ciclo: revisão, exercícios e provas
 
