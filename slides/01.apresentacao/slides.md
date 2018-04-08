@@ -118,7 +118,7 @@ count: false
 
 e organizaremos as aulas em ciclos:
   - em cada ciclo, alternaremos o foco em _frontend_ e _backend_
-  - em todas as aulas, discutiremos ou rediscutiremos os _conceitos_
+    - _conceitos_ serão (re-)discutidos em todas as aulas
   - cada ciclo terá 8 aulas
   - após cada ciclo: revisão, exercícios e provas
 
