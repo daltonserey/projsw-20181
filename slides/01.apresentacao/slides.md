@@ -1,5 +1,5 @@
 class: center, middle
-# Projeto de Softwate
+# Projeto de Software
 ## Apresentação do Curso
 ### ©2018 Dalton Serey & Melina Mongiovi, UFCG
 <!-- .center[![Right-aligned image](https://i.stack.imgur.com/Mmww2.png)] -->
