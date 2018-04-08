@@ -33,14 +33,17 @@ count: false
 grande porte.
 
 ---
-# Temas central do curso: Aplicações Web
+# Tema central do curso: Aplicações Web
 
-- conceitos de _design_ (projeto) e arquitetura de software
-
+--
+count: false
 - arquitetura de sistemas web modernos
+
   - protocolo http
   - modelo arquitetural REST
 
+--
+count: false
 - tecnologias web modernas
   - tecnologias web para frontend
   - tecnologias web para backend
