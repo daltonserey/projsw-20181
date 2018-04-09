@@ -5,7 +5,7 @@
 > [Dalton Serey](http://daltonserey.github.io)<br>
 > [Melina Mongiovi](http://www.dsc.ufcg.edu.br/~spg/Mongiovi/Home.html)<br>
 > 
-> Salas: ? e LCC3<br>
+> Salas: CAA 407, CAA 408 e LCC3<br>
 > Slack: [projsw-ufcg.slack.com](http://projsw-ufcg.slack.com)
 
 {% assign curso = site.data %}

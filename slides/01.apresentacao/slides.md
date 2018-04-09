@@ -180,10 +180,10 @@ E ainda ficamos com 2 aulas para ajustes no plano.
 # Projeto
 
 - construção de um site, incluindo
-   - complementação do projeto da api rest
-   - construção do _backend_
-   - construção do _frontend_
-   - testes automáticos
+   - projeto e documentação da api rest
+   - projeto e construção do _backend_
+   - projeto e construção do _frontend_
+   - construção de testes automáticos
 
 - pode ser feito em equipes de até 2 alunos
 
