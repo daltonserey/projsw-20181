@@ -90,6 +90,28 @@ respostas para estas questões. E também como podemos
 aproveitar essas respostas ao construírmos outros sistemas.
 
 ---
+# Lições aprendidas
+
+- o servidor de uma aplicação web é um programa que responde a
+  requisições enviadas pela web, usando o protocolo HTTP;
+
+- o servidor ora responde com dados em html, JavaScript, css ora
+  responde com dados estruturados em formato json; a esta parte
+  chamei (embora sem definir) de API REST da aplicação;
+
+- escrevemos o servidor em JavaScript, mas pode ser escrito em
+  qualquer linguagem, desde que responda como indicado acima;
+
+- o cliente de uma aplicação web é um programa tipicamente
+  escrito em JavaScript que executa em um _browser_;
+
+- o cliente é lido do servidor, no início da sessão do usuário;
+
+- o cliente faz requisições à API REST do backend e usa os dados
+  recebidos para atualizar o DOM e, portanto, a _view_ da
+  aplicação;
+
+---
 class: center, middle
 ## Como programas em máquinas diferentes interagem?
 
