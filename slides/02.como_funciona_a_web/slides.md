@@ -158,7 +158,7 @@ a cada oportunidade. Desenhe os elementos de rede envolvidos.
 - Quais os principais componentes de uma aplicação web moderna?
 - Uma aplicação web moderna é um sistema distribuído? Por quê?
 - Podemos dizer que é uma aplicação cliente-servidor?
-- Como uma é enviada pela internet até seu destino?
+- Como uma mensagem é enviada pela internet até seu destino?
 - Por que o protocolo IP é dito ser _connectionless_ (sem conexão)?
 - O que quer dizer a frase “TCP é um protocolo orientado a conexão”?
 - O que quer dizer a frase “TCP oferece um serviço fim a fim confiável”?
