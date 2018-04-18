@@ -3,3 +3,6 @@
 
 - titulo: Como funciona a web?
   slides: slides/02.como_funciona_a_web
+
+- titulo: O protocolo HTTP
+  slides: slides/03.protocolo_http
